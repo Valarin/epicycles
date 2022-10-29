@@ -4,7 +4,7 @@ This simple tool takes a list of epicycles and renders approximation of shape th
 Epicycles are passed as path to csv file where every epicycle is defined as tuple of angular speed, radius and initial angle.
 
 ```
-cargo run -- --input example/fish.csv --output fish.png
+cargo run -- --input examples/fish.csv --output fish.png
 ```
 
 In-depth animated & interactive explanation at [myFourierEpicycles](https://www.myfourierepicycles.com/) (And way more fun! Really, check it out!)
