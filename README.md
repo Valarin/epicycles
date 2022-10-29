@@ -1,5 +1,5 @@
 ## Epicycles Renderer
-This simple tool takes a list of epicycles and renders approximation of shape that last of the epicycle follows in time.
+This simple tool takes a list of epicycles and renders approximation of shape that last epicycle follows in time.
 
 Epicycles are passed as path to csv file where every epicycle is defined as tuple of angular speed, radius and initial angle.
 
